@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.2">
   <diagram name="Page-1" id="1j_9lnvRSgoa7JQ2pLDA">
-    <mxGraphModel dx="1857" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3096" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,37 +10,37 @@
         <mxCell id="vIf6MtgULG3TfoSgDXM2-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Регистрация" vertex="1">
           <mxGeometry height="54" width="152" x="281" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Просмотр_и_поиск_книг" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Просмотр и поиск книг" vertex="1">
           <mxGeometry height="54" width="242" x="523" y="621" as="geometry" />
         </mxCell>
         <mxCell id="vIf6MtgULG3TfoSgDXM2-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Бронирование" vertex="1">
           <mxGeometry height="54" width="166" x="815" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отмена_бронирования" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отмена бронирования" vertex="1">
           <mxGeometry height="54" width="228" x="1030" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="История_бронирований" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="История бронирований" vertex="1">
           <mxGeometry height="54" width="235" x="1308" y="621" as="geometry" />
         </mxCell>
         <mxCell id="vIf6MtgULG3TfoSgDXM2-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Библиотекарь" vertex="1">
           <mxGeometry height="54" width="163" x="1258" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление_книгами" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление книгами" vertex="1">
           <mxGeometry height="54" width="218" x="1593" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Выдача_возврат" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Выдача возврат" vertex="1">
           <mxGeometry height="54" width="179" x="1861" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Активные_бронирования" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Активные бронирования" vertex="1">
           <mxGeometry height="54" width="244" x="2091" y="621" as="geometry" />
         </mxCell>
         <mxCell id="vIf6MtgULG3TfoSgDXM2-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Администратор" vertex="1">
           <mxGeometry height="54" width="174" x="1687" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление_филиалами" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление филиалами" vertex="1">
           <mxGeometry height="54" width="242" x="2385" y="621" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление_пользователями" vertex="1">
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление пользователями" vertex="1">
           <mxGeometry height="54" width="277" x="2676" y="621" as="geometry" />
         </mxCell>
         <mxCell id="vIf6MtgULG3TfoSgDXM2-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Аналитика" vertex="1">
@@ -49,8 +49,8 @@
         <mxCell id="vIf6MtgULG3TfoSgDXM2-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Авторизация" vertex="1">
           <mxGeometry height="54" width="154" x="280" y="725" as="geometry" />
         </mxCell>
-        <mxCell id="vIf6MtgULG3TfoSgDXM2-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Поиск_по_автору_названию_жанру" vertex="1">
-          <mxGeometry height="54" width="321" x="484" y="725" as="geometry" />
+        <mxCell id="vIf6MtgULG3TfoSgDXM2-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Поиск по автору названию жанру" vertex="1">
+          <mxGeometry height="54" width="321" x="483.5" y="725" as="geometry" />
         </mxCell>
         <mxCell id="vIf6MtgULG3TfoSgDXM2-17" edge="1" parent="1" source="vIf6MtgULG3TfoSgDXM2-1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" target="vIf6MtgULG3TfoSgDXM2-2" value="">
           <mxGeometry relative="1" as="geometry">
